@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/olacencora/beers.git/static/css/main.507336ad.chunk.css",
-    "main.js": "/olacencora/beers.git/static/js/main.876db436.chunk.js",
-    "main.js.map": "/olacencora/beers.git/static/js/main.876db436.chunk.js.map",
-    "runtime~main.js": "/olacencora/beers.git/static/js/runtime~main.c0178549.js",
-    "runtime~main.js.map": "/olacencora/beers.git/static/js/runtime~main.c0178549.js.map",
-    "static/css/2.d4b275d9.chunk.css": "/olacencora/beers.git/static/css/2.d4b275d9.chunk.css",
-    "static/js/2.e62823b2.chunk.js": "/olacencora/beers.git/static/js/2.e62823b2.chunk.js",
-    "static/js/2.e62823b2.chunk.js.map": "/olacencora/beers.git/static/js/2.e62823b2.chunk.js.map",
-    "index.html": "/olacencora/beers.git/index.html",
-    "precache-manifest.477cc43a1d5d0be00c3bcf0bf4f6c384.js": "/olacencora/beers.git/precache-manifest.477cc43a1d5d0be00c3bcf0bf4f6c384.js",
-    "service-worker.js": "/olacencora/beers.git/service-worker.js",
-    "static/css/2.d4b275d9.chunk.css.map": "/olacencora/beers.git/static/css/2.d4b275d9.chunk.css.map",
-    "static/css/main.507336ad.chunk.css.map": "/olacencora/beers.git/static/css/main.507336ad.chunk.css.map"
+    "main.css": "/beers/static/css/main.507336ad.chunk.css",
+    "main.js": "/beers/static/js/main.b4a3dc29.chunk.js",
+    "main.js.map": "/beers/static/js/main.b4a3dc29.chunk.js.map",
+    "runtime~main.js": "/beers/static/js/runtime~main.e5f5406c.js",
+    "runtime~main.js.map": "/beers/static/js/runtime~main.e5f5406c.js.map",
+    "static/css/2.d4b275d9.chunk.css": "/beers/static/css/2.d4b275d9.chunk.css",
+    "static/js/2.e62823b2.chunk.js": "/beers/static/js/2.e62823b2.chunk.js",
+    "static/js/2.e62823b2.chunk.js.map": "/beers/static/js/2.e62823b2.chunk.js.map",
+    "index.html": "/beers/index.html",
+    "precache-manifest.8753d6213391c2db2042568b4ba0e896.js": "/beers/precache-manifest.8753d6213391c2db2042568b4ba0e896.js",
+    "service-worker.js": "/beers/service-worker.js",
+    "static/css/2.d4b275d9.chunk.css.map": "/beers/static/css/2.d4b275d9.chunk.css.map",
+    "static/css/main.507336ad.chunk.css.map": "/beers/static/css/main.507336ad.chunk.css.map"
   }
 }
